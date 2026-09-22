@@ -7,4 +7,5 @@ Generate normal maps and full PBR texture sets from a photo, a texture tile or a
 
 Available in: English, Español, Português, Deutsch, Français, Italiano, 日本語, 한국어, 中文, Русский, Bahasa Indonesia, Türkçe, Tiếng Việt
 
+
 _Last reviewed: 2026-09-22_
